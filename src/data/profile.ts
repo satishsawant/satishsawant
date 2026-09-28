@@ -44,7 +44,7 @@ export const profile = {
     upwork: 'https://www.upwork.com/freelancers/~01ecbee254ba869c8c?viewMode=1',
     github: 'https://github.com/satishsawant',
     linkedin: 'https://www.linkedin.com/in/satish-sawant-71a119a2/',
-    website: '',
+    website: 'https://satishsawant.github.io/satishsawant/',
   },
 
   // Built with the configured `base` (see vite.config.ts) so the download link
