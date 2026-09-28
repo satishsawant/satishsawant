@@ -4,7 +4,7 @@
 
 Software developer with **9+ years of experience** designing, developing, and delivering scalable web applications and enterprise software using **.NET, .NET Core, C#, Node.js, React, and AWS**. Experienced in RESTful and GraphQL APIs, backend architecture, cloud deployment, database optimization, and third-party API integrations, as well as leading teams and mentoring engineers in Agile environments.
 
-🔗 **Live site:** `https://<username>.github.io/<repo-name>/`
+🔗 **Live site:** `[https://<username>.github.io/<repo-name>/](https://satishsawant.github.io/satishsawant/)`
 
 ---
 
